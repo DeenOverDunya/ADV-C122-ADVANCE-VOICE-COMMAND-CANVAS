@@ -1,0 +1,31 @@
+body
+{
+	text-align: center;
+	font-family: 'DynaPuff', cursive;
+	font-size: 30px;
+	background: radial-gradient(#D6EFED,#B7D3DF,#C9BBCF,#898AA6);
+}
+span
+{
+	font-size: 18px;
+	color:#816797;
+}
+canvas
+{
+	background:#F9F9F9;
+	border-radius: 20px;
+}
+
+h3
+{
+color: white;
+font-size: 40px;
+}
+
+
+#draw
+{
+background-color: #7A86B6;
+color: white;
+font-size: 25px;
+}
